@@ -1,1 +1,1 @@
-# adiabatic_quantum_computing
+# Adiabatic_quantum_computing
